@@ -8,6 +8,7 @@ function whisper(string) {
 
 function logShout(string) {
   console.log( string.toUpperCase())
+<<<<<<< HEAD
 }
 
 function logWhisper(string) {
@@ -33,4 +34,6 @@ function sayHiToGrandma(string) {
   
   else if (string === "I love you, Grandma.")
   return "I love you, too."
+=======
+>>>>>>> 7f2da7c178bb19d4afeeaed428044ab3424b555a
 }
